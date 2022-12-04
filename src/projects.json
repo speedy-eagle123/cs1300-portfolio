@@ -1,0 +1,20 @@
+{
+    "project-previews": [
+        {
+            "title": "Responsive Redesign",
+            "description": "Placeholder description",
+            "image": "/redesign.png"
+        },
+        {
+            "title": "Development",
+            "description": "Placeholder description",
+            "image": "/coffee.png"
+        },
+        {
+            "title": "Airbnb for Dorms",
+            "description": "Placeholder description",
+            "image": "/air-bnb.png"
+        }
+    ],
+    "projects": {}
+}
