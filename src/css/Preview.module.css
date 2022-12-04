@@ -92,4 +92,7 @@
 
 #wrapper button:hover {
     cursor: pointer;
+    border: solid 2px white;
+    color: white;
+    background-color: #f75718;
 }
