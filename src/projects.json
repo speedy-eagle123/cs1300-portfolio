@@ -2,23 +2,26 @@
     "project-previews": [
         {
             "title": "Responsive Redesign",
-            "description": "Placeholder description",
-            "image": "/redesign.png"
+            "description": "This project was an introduction to responsive web development. The goal of this assignment was to select a public website that could benefit from a redesign. I then worked to design wireframes, mockups, and ultimately a responsive, live version of the site.",
+            "image": "/redesign.png",
+            "link": "https://cs1300.web.app/responsive"
         },
         {
             "title": "Development",
-            "description": "Placeholder description",
-            "image": "/coffee.png"
+            "description": "The Development project was an introduction into modern web development using the React framework. The goal of this assignment was create a website for an ecommerce platform where a user can filter through items and add or remove them from a cart. This project taught me the basics of state management and dynamically rendering a web app.",
+            "image": "/coffee.png",
+            "link": "https://speedy-eagle123.github.io/cs1300-dev/"
         },
         {
             "title": "Airbnb for Dorms",
-            "description": "Placeholder description",
+            "description": "Airbnb for college dorms was a colaborative assignment I created with my classmate to gain expereice using Figma. We were tasked with creating a 'product mashup' where we took an existing platform and changed its purpose. We then created high fidelity mockups to bring our product idea to life.",
             "image": "/air-bnb.png"
         },
         {
             "title": "Iterative Design and Evaluation",
-            "description": "Placeholder description",
-            "image": "/iterative.png"
+            "description": "The iterative design project was a group assignment in which we designed wireframes and mockups for a recent startup. Browsing through the Y Combinator list of startups, we decided to create designs for Lancey. We also submitted our designs to User Testing for feedback in addition to peer reviews. After the project, we reached out to the startup and presented our ideas to the team.",
+            "image": "/iterative.png",
+            "link": "https://jumpingrabbit513.github.io/iterative-design/"
         }
     ],
     "projects": {}

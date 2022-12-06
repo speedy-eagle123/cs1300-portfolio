@@ -1,9 +1,8 @@
 #wrapper {
-    width: 75%;
+    width: 100%;
     display: flex;
-    /* flex-direction: row; */
     margin-top: 100px;
-    height: 90vh;
+    min-height: 60vw;
 }
 
 #preview {
@@ -19,7 +18,7 @@
 }
 
 #content {
-    width: 60%;
+    width: 30vw;
     display: flex;
     flex-direction: column;
 
@@ -28,12 +27,12 @@
 
     position: absolute;
     left: 0;
-    padding-top: 200px;
-    padding-left: 150px;
+    padding-top: 10vw;
+    padding-left: 8vw;
 }
 
 #contentReverse {
-    width: 60%;
+    width: 30vw;
     display: flex;
     flex-direction: column;
 
@@ -42,8 +41,9 @@
 
     position: absolute;
     right: 0;
-    padding-top: 200px;
-    padding-right: 200px;
+    padding-top: 12vw;
+    padding-right: 8vw;
+
 }
 
 #right {
@@ -55,29 +55,37 @@
     position: absolute;
     left: 0;
     width: 60vw;
-    height: 90vh;
+    /* height: 90vh; */
     z-index: -1;
 }
 
 #titleBlobReverse {
     position: absolute;
-    right: 0;
+    right: -5px;
     width: 60vw;
-    height: 90vh;
+    /* height: 90vh; */
     z-index: -1;
     -webkit-transform: rotate(180deg);
     transform: rotate(180deg);
 }
 
 #wrapper h1 {
-    font-size: 40px;
+    font-size: 3vw;
     color: white;
 }
 
 #wrapper h3 {
-    font-size: 20px;
+    font-size: 1.25vw;
     color: white;
     margin-top: 10px;
+    text-align: left;
+}
+
+#contentReverse h3 {
+    font-size: 1.25vw;
+    color: white;
+    margin-top: 10px;
+    text-align: right;
 }
 
 #wrapper button {
@@ -88,6 +96,7 @@
     border-radius: 8px;
     font-weight: bold;
     color: #fa4903;
+    margin-top: 5vw;
 }
 
 #wrapper button:hover {

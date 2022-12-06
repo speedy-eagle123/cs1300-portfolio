@@ -17,6 +17,7 @@ function App() {
                         description={info.description}
                         image={info.image}
                         reversed={idx % 2 !== 0}
+                        link={info.link}
                     />
                 ))
             }
