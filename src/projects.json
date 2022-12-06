@@ -8,13 +8,13 @@
         },
         {
             "title": "Development",
-            "description": "The Development project was an introduction into modern web development using the React framework. The goal of this assignment was create a website for an ecommerce platform where a user can filter through items and add or remove them from a cart. This project taught me the basics of state management and dynamically rendering a web app.",
+            "description": "The Development project was an introduction into modern web development using the React framework. The goal of this assignment was to create a website for an ecommerce platform where a user can filter through items and add or remove them from a cart. This project taught me the basics of state management and dynamically rendering a web app.",
             "image": "/coffee.png",
             "link": "https://speedy-eagle123.github.io/cs1300-dev/"
         },
         {
             "title": "Airbnb for Dorms",
-            "description": "Airbnb for college dorms was a colaborative assignment I created with my classmate to gain expereice using Figma. We were tasked with creating a 'product mashup' where we took an existing platform and changed its purpose. We then created high fidelity mockups to bring our product idea to life.",
+            "description": "Airbnb for college dorms was a collaborative assignment I created with my classmate to gain experience using Figma. We were tasked with creating a 'product mashup' where we took an existing platform and changed its purpose. We then created high fidelity mockups to bring our product idea to life.",
             "image": "/air-bnb.png"
         },
         {

@@ -18,7 +18,7 @@ export default function Hero() {
 
         imgRef.current.animate(
             {
-                marginRight: ['-100vw', 0]
+                right: ['-80vw', '5vw']
             },
             800
         )
