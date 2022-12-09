@@ -79,6 +79,7 @@
     color: white;
     margin-top: 10px;
     text-align: left;
+    font-weight: normal;
 }
 
 #contentReverse h3 {
@@ -96,7 +97,7 @@
     border-radius: 8px;
     font-weight: bold;
     color: #fa4903;
-    margin-top: 5vw;
+    margin-top: 1vw;
 }
 
 #wrapper button:hover {

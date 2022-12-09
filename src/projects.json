@@ -2,24 +2,24 @@
     "project-previews": [
         {
             "title": "Responsive Redesign",
-            "description": "This project was an introduction to responsive web development. The goal of this assignment was to select a public website that could benefit from a redesign. I then worked to design wireframes, mockups, and ultimately a responsive, live version of the site.",
+            "description": "For this assignment, I was tasked with redesigning a website to improve its usability and accessibility. I analyzed the website's existing design and identified areas for improvement. I created wireframes to address these issues and developed a visual design style guide and high-fidelity prototypes. The final product was a responsive website that addressed the identified usability problems. Overall, the redesign process allowed me to practice my skills in user experience design and improve the website's overall design.",
             "image": "/redesign.png",
             "link": "https://cs1300.web.app/responsive"
         },
         {
             "title": "Development",
-            "description": "The Development project was an introduction into modern web development using the React framework. The goal of this assignment was to create a website for an ecommerce platform where a user can filter through items and add or remove them from a cart. This project taught me the basics of state management and dynamically rendering a web app.",
+            "description": "In this assignment, I created an interactive interface using React components. The interface allowed users to select items from a list and aggregate them using filters and sorting features. The final interface included an aggregator section and a total of 12 item cards, each displaying information about the items and allowing users to add or remove them from the aggregation. This assignment helped me learn how to create list-based interfaces with React, as well as how to filter and sort data in a web application. It also allowed me to improve my skills in creating user-friendly designs. Overall, this assignment was a valuable learning experience for me in the field of web development.",
             "image": "/coffee.png",
             "link": "https://speedy-eagle123.github.io/cs1300-dev/"
         },
         {
             "title": "Airbnb for Dorms",
-            "description": "Airbnb for college dorms was a collaborative assignment I created with my classmate to gain experience using Figma. We were tasked with creating a 'product mashup' where we took an existing platform and changed its purpose. We then created high fidelity mockups to bring our product idea to life.",
+            "description": "In this assignment, my classmate and I used Figma to design a product mashup of Airbnb and college dorms. Our idea was to allow college students to rent out their dorm rooms to other students when they are not using them. Through the design process, we gained experience using Figma and learned how to create high fidelity mockups. It was a valuable learning experience that helped us improve our design skills and ability to think creatively.",
             "image": "/air-bnb.png"
         },
         {
             "title": "Iterative Design and Evaluation",
-            "description": "The iterative design project was a group assignment in which we designed wireframes and mockups for a recent startup. Browsing through the Y Combinator list of startups, we decided to create designs for Lancey. We also submitted our designs to User Testing for feedback in addition to peer reviews. After the project, we reached out to the startup and presented our ideas to the team.",
+            "description": "In this assignment, my group and I were tasked with designing an interactive interface for a startup of our choice. The assignment was split into four parts: sketching ideas for the interface, creating a high-fidelity prototype, conducting user testing on the prototype, and contacting the startup. Our group chose Lancey as our startup because we were impressed by the concept and the potential impact it could have on its users. Through this assignment, I learned the importance of iterative design and how critical user testing is in the design process. I also gained valuable experience working in a team and collaborating on a design project.",
             "image": "/iterative.png",
             "link": "https://jumpingrabbit513.github.io/iterative-design/"
         }
