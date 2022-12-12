@@ -3,7 +3,7 @@ import styles from '../css/Preview.module.css'
 export default function ProjectPreview({ title, description, image, reversed, link }) {
     return (
         <div id={styles.wrapper} style={{ flexDirection: reversed ? 'row-reverse' : 'row' }}>
-            <img src={'/blob.png'} id={reversed ? styles.titleBlobReverse : styles.titleBlob} />
+            <img src={'/cs1300-portfolio/blob.png'} id={reversed ? styles.titleBlobReverse : styles.titleBlob} />
             <div
                 id={reversed ? styles.contentReverse : styles.content}
             // style={{

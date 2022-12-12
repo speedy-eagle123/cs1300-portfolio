@@ -3,24 +3,24 @@
         {
             "title": "Responsive Redesign",
             "description": "For this assignment, I was tasked with redesigning a website to improve its usability and accessibility accross multiple devices. I analyzed the website's existing design and identified areas for improvement. I created wireframes to address these issues and developed a visual design style guide and high-fidelity prototypes. The final product was a responsive website that addressed the identified usability problems. Overall, the redesign process allowed me to practice my skills in user experience design and responsive web development.",
-            "image": "/redesign.png",
+            "image": "/cs1300-portfolio/redesign.png",
             "link": "https://cs1300.web.app/responsive"
         },
         {
             "title": "Development",
             "description": "Take the form of \"Jeff's Coffee Shop,\" I created an interactive interface using React components. The interface allowed users to select items from a list and aggregate them using filters and sorting features. The final interface included an aggregator section and a total of 12 item cards, each displaying information about the items and allowing users to add or remove them from the aggregation. This assignment helped me learn how to create list-based interfaces with React, as well as how to filter and sort data in a web application. It also allowed me to improve my skills in creating user-friendly designs. Overall, this assignment was a great introduction into the tools of modern web development.",
-            "image": "/coffee.png",
+            "image": "/cs1300-portfolio/coffee.png",
             "link": "https://speedy-eagle123.github.io/cs1300-dev/"
         },
         {
             "title": "Airbnb for Dorms",
             "description": "In this assignment, my classmate and I used Figma to design a product mashup of Airbnb and college dorms. Our idea was to allow college students to rent out their dorm rooms to other students when they are not using them. Through the design process, we gained experience using Figma and learned how to create high fidelity mockups. It was a valuable learning experience that helped us improve our design skills and ability to iterate through wireframing, sketching, and prototyping.",
-            "image": "/air-bnb.png"
+            "image": "/cs1300-portfolio/air-bnb.png"
         },
         {
             "title": "Iterative Design and Evaluation",
             "description": "For this assignment, my group and I were tasked with designing an interactive interface for a startup of our choice. The assignment was split into four parts: sketching ideas for the interface, creating a high-fidelity prototype, conducting user testing on the prototype, and contacting the startup. Our group chose Lancey as our startup because we were impressed by the concept and the potential impact it could have on its users. Through this assignment, I learned the importance of iterative design and how critical user testing is in the design process. I also gained valuable experience working in a team and collaborating on a design project.",
-            "image": "/iterative.png",
+            "image": "/cs1300-portfolio/iterative.png",
             "link": "https://jumpingrabbit513.github.io/iterative-design/"
         }
     ],
