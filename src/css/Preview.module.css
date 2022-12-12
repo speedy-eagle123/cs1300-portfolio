@@ -62,7 +62,7 @@
 #titleBlobReverse {
     position: absolute;
     right: -5px;
-    width: 60vw;
+    width: 65vw;
     /* height: 90vh; */
     z-index: -1;
     -webkit-transform: rotate(180deg);

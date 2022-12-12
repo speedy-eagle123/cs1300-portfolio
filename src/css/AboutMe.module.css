@@ -1,0 +1,26 @@
+#wrapper {
+    width: 70vw;
+    background-color: rgb(247, 246, 246);
+    margin-top: 100px;
+
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    border-radius: 10px;
+
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    padding-top: 15px;
+
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#wrapper h3 {
+    color: gray;
+    font-weight: 400;
+}
+
+#wrapper h1 {
+    color: rgb(48, 48, 48);
+}

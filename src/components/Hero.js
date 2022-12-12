@@ -2,6 +2,7 @@ import styles from '../css/Hero.module.css'
 import Blob from '../assets/blob.svg'
 import Profile from '../assets/profile.png'
 import { useEffect, useRef } from 'react'
+import Down from '../assets/down.png'
 
 export default function Hero() {
     const titleRef = useRef()
@@ -41,11 +42,19 @@ export default function Hero() {
 
             <div id={styles.textWrapper} ref={titleRef}>
                 <h3>Hello I'm,</h3>
-                <h1>Hunter Karas</h1>
+                <h1>Speedy Eagle</h1>
                 <h2>Full Stack SDE @ Amazon</h2>
             </div>
             <button ref={buttonRef} onClick={handleContact}>Contact</button>
             <img src={Blob} id={styles.blob} />
+            <img src={Down} style={{
+                width: 40,
+                position: 'absolute',
+                bottom: 20,
+                left: '50vw',
+                opacity: 0.25
+            }} />
+            {/* <KeyboardArrowDownIcon /> */}
         </div>
     )
 }
